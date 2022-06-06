@@ -1,13 +1,15 @@
 # LAB1-PFP191
 
-### Prerequisite
+## Prerequisite
+
 Python >= 3.6
 
-### Installation
+## Installation
+
 Clone the repo:
 
 ```sh
-git clone https://github.com/hungpham3112/LAB1-PFP191.git && cd LAB-PFP191
+git clone https://github.com/hungpham3112/LAB1-PFP191.git && cd LAB1-PFP191
 ```
 
 Run main.py:
